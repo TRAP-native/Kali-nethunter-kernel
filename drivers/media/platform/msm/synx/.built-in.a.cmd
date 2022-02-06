@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/msm/synx/built-in.a :=  rm -f drivers/media/platform/msm/synx/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/media/platform/msm/synx/built-in.a drivers/media/platform/msm/synx/synx.o drivers/media/platform/msm/synx/synx_util.o drivers/media/platform/msm/synx/synx_debugfs.o

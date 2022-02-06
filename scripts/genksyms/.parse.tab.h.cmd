@@ -1,0 +1,1 @@
+cmd_scripts/genksyms/parse.tab.h := bison --version >/dev/null; bison -o/dev/null --defines=scripts/genksyms/parse.tab.h -t -l /home/anonymous/Downloads/android_kernel_sony_sm8250_pdx206-q/scripts/genksyms/parse.y 2>/dev/null

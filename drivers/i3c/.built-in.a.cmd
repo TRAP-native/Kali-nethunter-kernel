@@ -1,0 +1,1 @@
+cmd_drivers/i3c/built-in.a :=  rm -f drivers/i3c/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/i3c/built-in.a drivers/i3c/device.o drivers/i3c/master.o drivers/i3c/master/built-in.a

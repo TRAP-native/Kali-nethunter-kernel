@@ -1,0 +1,23 @@
+!<thin>
+//                                              202       `
+core/mhi_init.o/
+core/mhi_main.o/
+core/mhi_pm.o/
+core/mhi_boot.o/
+core/mhi_dtr.o/
+controllers/mhi_qcom.o/
+controllers/mhi_arch_qcom.o/
+devices/mhi_netdev.o/
+devices/mhi_uci.o/
+devices/mhi_satellite.o/
+
+/0              0           0     0     644     409104    `
+/17             0           0     0     644     415056    `
+/34             0           0     0     644     333288    `
+/49             0           0     0     644     228400    `
+/66             0           0     0     644     170368    `
+/82             0           0     0     644     288712    `
+/106           /0           0     0     644     288000    `
+/135            0           0     0     644     394816    `
+/157            0           0     0     644     200328    `
+/176           /0           0     0     644     236600    `

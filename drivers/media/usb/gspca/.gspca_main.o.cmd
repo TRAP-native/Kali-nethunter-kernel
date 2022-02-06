@@ -1,0 +1,1 @@
+cmd_drivers/media/usb/gspca/gspca_main.o := /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ld  -EL  -maarch64elf    -r -o drivers/media/usb/gspca/gspca_main.o drivers/media/usb/gspca/gspca.o drivers/media/usb/gspca/autogain_functions.o 

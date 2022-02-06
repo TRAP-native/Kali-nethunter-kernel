@@ -1,0 +1,1 @@
+cmd_drivers/media/radio/silabs/built-in.a :=  rm -f drivers/media/radio/silabs/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/media/radio/silabs/built-in.a drivers/media/radio/silabs/radio-silabs.o

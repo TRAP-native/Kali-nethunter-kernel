@@ -1,0 +1,1 @@
+cmd_techpack/display/built-in.a :=  rm -f techpack/display/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD techpack/display/built-in.a techpack/display/msm/built-in.a techpack/display/rotator/built-in.a techpack/display/pll/built-in.a

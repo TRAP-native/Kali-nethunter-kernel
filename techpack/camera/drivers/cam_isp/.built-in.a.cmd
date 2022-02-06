@@ -1,0 +1,1 @@
+cmd_techpack/camera/drivers/cam_isp/built-in.a :=  rm -f techpack/camera/drivers/cam_isp/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD techpack/camera/drivers/cam_isp/built-in.a techpack/camera/drivers/cam_isp/isp_hw_mgr/built-in.a techpack/camera/drivers/cam_isp/cam_isp_dev.o techpack/camera/drivers/cam_isp/cam_isp_context.o

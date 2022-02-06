@@ -1,0 +1,1 @@
+cmd_drivers/mailbox/built-in.a :=  rm -f drivers/mailbox/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/mailbox/built-in.a drivers/mailbox/mailbox.o drivers/mailbox/qcom-apcs-ipc-mailbox.o drivers/mailbox/msm_qmp.o

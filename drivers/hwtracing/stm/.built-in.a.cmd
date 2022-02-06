@@ -1,0 +1,1 @@
+cmd_drivers/hwtracing/stm/built-in.a :=  rm -f drivers/hwtracing/stm/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/hwtracing/stm/built-in.a drivers/hwtracing/stm/core.o drivers/hwtracing/stm/policy.o

@@ -1,0 +1,1 @@
+cmd_drivers/bus/mhi/built-in.a :=  rm -f drivers/bus/mhi/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/bus/mhi/built-in.a drivers/bus/mhi/core/built-in.a drivers/bus/mhi/controllers/built-in.a drivers/bus/mhi/devices/built-in.a

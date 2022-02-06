@@ -1,0 +1,1 @@
+cmd_drivers/mfd/built-in.a :=  rm -f drivers/mfd/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/mfd/built-in.a drivers/mfd/mfd-core.o drivers/mfd/qcom-i2c-pmic.o drivers/mfd/qcom-spmi-pmic.o drivers/mfd/syscon.o

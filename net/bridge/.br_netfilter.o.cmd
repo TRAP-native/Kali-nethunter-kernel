@@ -1,0 +1,1 @@
+cmd_net/bridge/br_netfilter.o := /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ld  -EL  -maarch64elf    -r -o net/bridge/br_netfilter.o net/bridge/br_netfilter_hooks.o net/bridge/br_netfilter_ipv6.o 

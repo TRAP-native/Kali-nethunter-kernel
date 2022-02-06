@@ -1,0 +1,1 @@
+cmd_drivers/bus/built-in.a :=  rm -f drivers/bus/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/bus/built-in.a drivers/bus/qcom-ebi2.o drivers/bus/mhi/built-in.a

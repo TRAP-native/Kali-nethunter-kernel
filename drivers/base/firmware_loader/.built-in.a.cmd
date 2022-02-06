@@ -1,0 +1,1 @@
+cmd_drivers/base/firmware_loader/built-in.a :=  rm -f drivers/base/firmware_loader/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/base/firmware_loader/built-in.a drivers/base/firmware_loader/fallback_table.o drivers/base/firmware_loader/main.o drivers/base/firmware_loader/fallback.o

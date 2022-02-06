@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/smsc/built-in.a :=  rm -f drivers/net/ethernet/smsc/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/net/ethernet/smsc/built-in.a drivers/net/ethernet/smsc/smsc911x.o

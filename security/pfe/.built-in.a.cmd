@@ -1,0 +1,1 @@
+cmd_security/pfe/built-in.a :=  rm -f security/pfe/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD security/pfe/built-in.a security/pfe/pfk.o security/pfe/pfk_kc.o security/pfe/pfk_ice.o security/pfe/pfk_ext4.o security/pfe/pfk_f2fs.o

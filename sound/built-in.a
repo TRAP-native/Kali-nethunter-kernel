@@ -1,0 +1,105 @@
+!<thin>
+//                                              820       `
+sound_core.o/
+core/sound.o/
+core/init.o/
+core/memory.o/
+core/control.o/
+core/misc.o/
+core/device.o/
+core/info.o/
+core/ctljack.o/
+core/jack.o/
+core/hwdep.o/
+core/timer.o/
+core/pcm.o/
+core/pcm_native.o/
+core/pcm_lib.o/
+core/pcm_misc.o/
+core/pcm_memory.o/
+core/memalloc.o/
+core/pcm_timer.o/
+core/pcm_drm_eld.o/
+core/pcm_iec958.o/
+core/rawmidi.o/
+core/compress_offload.o/
+usb/card.o/
+usb/clock.o/
+usb/endpoint.o/
+usb/format.o/
+usb/helper.o/
+usb/mixer.o/
+usb/mixer_quirks.o/
+usb/mixer_scarlett.o/
+usb/mixer_us16x08.o/
+usb/pcm.o/
+usb/power.o/
+usb/proc.o/
+usb/quirks.o/
+usb/stream.o/
+usb/midi.o/
+usb/usb_audio_qmi_v01.o/
+usb/usb_audio_qmi_svc.o/
+soc/soc-core.o/
+soc/soc-dapm.o/
+soc/soc-jack.o/
+soc/soc-utils.o/
+soc/soc-pcm.o/
+soc/soc-io.o/
+soc/soc-devres.o/
+soc/soc-ops.o/
+soc/soc-compress.o/
+soc/codecs/hdmi-codec.o/
+last.o/
+
+/0              0           0     0     644     43800     `
+/14             0           0     0     644     155240    `
+/28             0           0     0     644     229288    `
+/41             0           0     0     644     56008     `
+/56             0           0     0     644     410024    `
+/72             0           0     0     644     128808    `
+/85             0           0     0     644     84960     `
+/100            0           0     0     644     208536    `
+/113            0           0     0     644     71696     `
+/129            0           0     0     644     166672    `
+/142            0           0     0     644     217280    `
+/156            0           0     0     644     417760    `
+/170            0           0     0     644     255336    `
+/182            0           0     0     644     638856    `
+/201            0           0     0     644     354024    `
+/217            0           0     0     644     154240    `
+/234            0           0     0     644     167784    `
+/253            0           0     0     644     139136    `
+/270            0           0     0     644     137936    `
+/288            0           0     0     644     134616    `
+/308            0           0     0     644     132296    `
+/327            0           0     0     644     402128    `
+/343            0           0     0     644     227144    `
+/368            0           0     0     644     324144    `
+/380            0           0     0     644     185408    `
+/393            0           0     0     644     225592    `
+/409            0           0     0     644     158104    `
+/423            0           0     0     644     127424    `
+/437            0           0     0     644     375352    `
+/450            0           0     0     644     283984    `
+/470            0           0     0     644     200432    `
+/492           /0           0     0     644     202336    `
+/513            0           0     0     644     257968    `
+/524            0           0     0     644     128728    `
+/537            0           0     0     644     172664    `
+/549            0           0     0     644     231448    `
+/563            0           0     0     644     235392    `
+/577            0           0     0     644     295800    `
+/589            0           0     0     644     8648      `
+/614            0           0     0     644     317632    `
+/639            0           0     0     644     740328    `
+/655            0           0     0     644     608016    `
+/671            0           0     0     644     295656    `
+/687            0           0     0     644     233152    `
+/704            0           0     0     644     413200    `
+/719            0           0     0     644     206776    `
+/733            0           0     0     644     199472    `
+/751            0           0     0     644     260424    `
+/766            0           0     0     644     245256    `
+/786            0           0     0     644     252312    `
+/811            0           0     0     644     5064      `

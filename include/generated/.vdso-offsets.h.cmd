@@ -1,0 +1,1 @@
+cmd_include/generated/vdso-offsets.h := 	/home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-nm arch/arm64/kernel/vdso/vdso.so.dbg | /home/anonymous/Downloads/android_kernel_sony_sm8250_pdx206-q/arch/arm64/kernel/vdso/gen_vdso_offsets.sh | LC_ALL=C sort > include/generated/vdso-offsets.h

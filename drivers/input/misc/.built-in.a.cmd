@@ -1,0 +1,1 @@
+cmd_drivers/input/misc/built-in.a :=  rm -f drivers/input/misc/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/input/misc/built-in.a drivers/input/misc/qpnp-power-on.o drivers/input/misc/qti-haptics.o drivers/input/misc/uinput.o

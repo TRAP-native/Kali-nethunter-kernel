@@ -1,0 +1,1 @@
+cmd_drivers/firmware/meson/built-in.a :=  rm -f drivers/firmware/meson/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD drivers/firmware/meson/built-in.a 

@@ -1,0 +1,1 @@
+cmd_net/qrtr/built-in.a :=  rm -f net/qrtr/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD net/qrtr/built-in.a net/qrtr/qrtr.o net/qrtr/smd.o net/qrtr/mhi.o

@@ -1,0 +1,95 @@
+!<thin>
+//                                              1412      `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+event_notify.o/
+ff-memless.o/
+input-leds.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+joystick/xpad.o/
+tablet/acecad.o/
+tablet/aiptek.o/
+tablet/gtco.o/
+tablet/hanwang.o/
+tablet/kbtab.o/
+touchscreen/of_touchscreen.o/
+touchscreen/st/fts.o/
+touchscreen/st/fts_gui.o/
+touchscreen/st/fts_driver_test.o/
+touchscreen/st/fts_aoi_event.o/
+touchscreen/st/fts_lib/ftsCompensation.o/
+touchscreen/st/fts_lib/ftsCrossCompile.o/
+touchscreen/st/fts_lib/ftsError.o/
+touchscreen/st/fts_lib/ftsFrame.o/
+touchscreen/st/fts_lib/ftsIO.o/
+touchscreen/st/fts_lib/ftsTest.o/
+touchscreen/st/fts_lib/ftsTime.o/
+touchscreen/st/fts_lib/ftsTool.o/
+touchscreen/st/fts_lib/ftsFlash.o/
+touchscreen/st/fts_lib/ftsGesture.o/
+touchscreen/synaptics_dsx/synaptics_dsx_i2c.o/
+touchscreen/synaptics_dsx/synaptics_dsx_core.o/
+touchscreen/synaptics_dsx/synaptics_dsx_rmi_dev.o/
+touchscreen/synaptics_dsx/synaptics_dsx_fw_update.o/
+touchscreen/synaptics_dsx/synaptics_dsx_test_reporting.o/
+touchscreen/synaptics_tcm/synaptics_tcm_i2c.o/
+touchscreen/synaptics_tcm/synaptics_tcm_core.o/
+touchscreen/synaptics_tcm/synaptics_tcm_touch.o/
+touchscreen/synaptics_tcm/synaptics_tcm_device.o/
+touchscreen/synaptics_tcm/synaptics_tcm_reflash.o/
+touchscreen/synaptics_tcm/synaptics_tcm_recovery.o/
+touchscreen/synaptics_tcm/synaptics_tcm_diagnostics.o/
+misc/qpnp-power-on.o/
+misc/qti-haptics.o/
+misc/uinput.o/
+
+/0              0           0     0     644     443760    `
+/9              0           0     0     644     107680    `
+/25             0           0     0     644     158656    `
+/37             0           0     0     644     147568    `
+/48             0           0     0     644     11336     `
+/64             0           0     0     644     164984    `
+/78             0           0     0     644     141920    `
+/92             0           0     0     644     330400    `
+/101            0           0     0     644     250912    `
+/119            0           0     0     644     232184    `
+/141            0           0     0     644     284304    `
+/158            0           0     0     644     171640    `
+/175            0           0     0     644     291792    `
+/192            0           0     0     644     190736    `
+/207            0           0     0     644     186744    `
+/225            0           0     0     644     168584    `
+/241            0           0     0     644     145776    `
+/271            0           0     0     644     477752    `
+/293            0           0     0     644     1048      `
+/319            0           0     0     644     250064    `
+/353           /0           0     0     644     80760     `
+/385            0           0     0     644     53640     `
+/427            0           0     0     644     4856      `
+/469            0           0     0     644     209392    `
+/504            0           0     0     644     36216     `
+/539            0           0     0     644     228096    `
+/571            0           0     0     644     487064    `
+/605            0           0     0     644     8920      `
+/639            0           0     0     644     108560    `
+/673            0           0     0     644     240536    `
+/708            0           0     0     644     46280     `
+/745            0           0     0     644     216880    `
+/792            0           0     0     644     535704    `
+/840            0           0     0     644     251296    `
+/891            0           0     0     644     375872    `
+/944            0           0     0     644     430176    `
+/1002           0           0     0     644     192176    `
+/1049           0           0     0     644     493200    `
+/1097           0           0     0     644     271824    `
+/1146           0           0     0     644     205288    `
+/1196           0           0     0     644     287648    `
+/1247           0           0     0     644     190792    `
+/1299           0           0     0     644     190376    `
+/1354          /0           0     0     644     456704    `
+/1376           0           0     0     644     415560    `
+/1396           0           0     0     644     253688    `

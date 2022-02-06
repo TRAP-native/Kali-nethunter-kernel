@@ -1,0 +1,16 @@
+!<thin>
+//                                              170       `
+synaptics_tcm_i2c.o/
+synaptics_tcm_core.o/
+synaptics_tcm_touch.o/
+synaptics_tcm_device.o/
+synaptics_tcm_reflash.o/
+synaptics_tcm_recovery.o/
+synaptics_tcm_diagnostics.o/
+/0              0           0     0     644     192176    `
+/21             0           0     0     644     493200    `
+/43             0           0     0     644     271824    `
+/66             0           0     0     644     205288    `
+/90             0           0     0     644     287648    `
+/115            0           0     0     644     190792    `
+/141            0           0     0     644     190376    `

@@ -1,0 +1,1 @@
+cmd_techpack/camera/drivers/cam_fd/fd_hw_mgr/built-in.a :=  rm -f techpack/camera/drivers/cam_fd/fd_hw_mgr/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD techpack/camera/drivers/cam_fd/fd_hw_mgr/built-in.a techpack/camera/drivers/cam_fd/fd_hw_mgr/fd_hw/built-in.a techpack/camera/drivers/cam_fd/fd_hw_mgr/cam_fd_hw_mgr.o

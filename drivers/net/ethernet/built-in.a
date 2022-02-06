@@ -1,0 +1,22 @@
+!<thin>
+//                                              286       `
+cavium/common/cavium_ptp.o/
+marvell/sky2.o/
+qualcomm/rmnet/rmnet_config.o/
+qualcomm/rmnet/rmnet_vnd.o/
+qualcomm/rmnet/rmnet_handlers.o/
+qualcomm/rmnet/rmnet_map_data.o/
+qualcomm/rmnet/rmnet_map_command.o/
+qualcomm/rmnet/rmnet_descriptor.o/
+qualcomm/rmnet/rmnet_genl.o/
+smsc/smsc911x.o/
+/0              0           0     0     644     173472    `
+/28             0           0     0     644     1480680   `
+/44             0           0     0     644     409328    `
+/75             0           0     0     644     282616    `
+/103            0           0     0     644     506744    `
+/136            0           0     0     644     442144    `
+/169            0           0     0     644     282328    `
+/205            0           0     0     644     449392    `
+/240            0           0     0     644     319040    `
+/269            0           0     0     644     597416    `

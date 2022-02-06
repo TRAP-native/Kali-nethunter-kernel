@@ -1,0 +1,23 @@
+!<thin>
+//                                              210       `
+cam_vfe_camif_lite_ver2.o/
+cam_vfe_top.o/
+cam_vfe_top_common.o/
+cam_vfe_top_ver3.o/
+cam_vfe_top_ver2.o/
+cam_vfe_camif_ver2.o/
+cam_vfe_camif_ver3.o/
+cam_vfe_rdi.o/
+cam_vfe_fe_ver1.o/
+cam_vfe_camif_lite_ver3.o/
+
+/0              0           0     0     644     187424    `
+/27             0           0     0     644     125720    `
+/42             0           0     0     644     145680    `
+/64             0           0     0     644     195352    `
+/84             0           0     0     644     190680    `
+/104            0           0     0     644     208656    `
+/126            0           0     0     644     249424    `
+/148            0           0     0     644     186336    `
+/163            0           0     0     644     179520    `
+/182            0           0     0     644     238088    `

@@ -1,0 +1,1 @@
+cmd_lib/reed_solomon/built-in.a :=  rm -f lib/reed_solomon/built-in.a; /home/anonymous/android/toolchains/aarch64-4.9/bin/aarch64-linux-android-ar rcSTPD lib/reed_solomon/built-in.a lib/reed_solomon/reed_solomon.o
